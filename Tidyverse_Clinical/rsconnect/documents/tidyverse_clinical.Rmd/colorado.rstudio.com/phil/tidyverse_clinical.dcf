@@ -1,0 +1,12 @@
+name: tidyverse_clinical
+title: tidyverse_clinical
+username: phil
+account: phil
+server: colorado.rstudio.com
+hostUrl: http://colorado.rstudio.com:3939/__api__
+appId: 1582
+bundleId: 19806
+url: http://colorado.rstudio.com:3939/content/1582/
+when: 1539930121.42896
+asMultiple: FALSE
+asStatic: FALSE
