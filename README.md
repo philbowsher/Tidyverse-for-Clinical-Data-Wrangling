@@ -2,7 +2,7 @@
 
 Live Presentation is here:
 
-http://colorado.rstudio.com:3939/content/1582/
+https://colorado.rstudio.com/rsc/content/1582/
 
 Presentations and code from workshop.
 
